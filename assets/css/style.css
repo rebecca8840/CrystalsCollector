@@ -13,13 +13,22 @@ body {
 
 /* game portion */
 
-.crystalimgs {
-	height: 100px;
-	width: 100px;
-	display: inline-flex;
-	margin-right: 25px;
+.header {
+	text-align: center;
+	position: relative;
+	background-color: deeppink;
+	width: 20%;
+}
+
+.parambox {
+	position: relative;
+	width: 40%;
 	border-style: solid;
-	border-color: deeppink;
+	background-color: transparent;
+	border-color: #0b0fea;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-bottom: 20px;
 }
 
 .numtoGet {
@@ -41,22 +50,15 @@ body {
     margin-left: 100px
 }
 
-.header {
-	text-align: center;
-	position: relative;
-	background-color: deeppink;
-	width: 20%;
+.crystalimgs {
+	height: 100px;
+	width: 100px;
+	display: inline-flex;
+	margin-right: 25px;
+	border-style: solid;
+	border-color: deeppink;
 }
 
-.parambox {
-	position: relative;
-	width: 40%;
-	border-style: solid;
-	background-color: transparent;
-	border-color: #0b0fea;
-	padding-top: 10px;
-	padding-left: 10px;
-	margin-bottom: 20px;
-}
+
 
 
