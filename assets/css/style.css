@@ -1,0 +1,62 @@
+/* for the reset */
+
+h1 {
+	font-size: 32px;
+}
+
+body {
+	background-image: url("../images/darkness.png");
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+/* game portion */
+
+.crystalimgs {
+	height: 100px;
+	width: 100px;
+	display: inline-flex;
+	margin-right: 25px;
+	border-style: solid;
+	border-color: deeppink;
+}
+
+.numtoGet {
+	background-color: deeppink;
+	width: 5%;
+	text-align: center;
+	height: 10%;
+	padding-top: 5px;
+}
+
+.winsLosses {
+	position: relative;
+	bottom: 74px;
+    background-color: deeppink;
+    width: 10%;
+    text-align: center;
+    height: 10%;
+    padding-top: 5px;
+    margin-left: 100px
+}
+
+.header {
+	text-align: center;
+	position: relative;
+	background-color: deeppink;
+	width: 20%;
+}
+
+.parambox {
+	position: relative;
+	width: 40%;
+	border-style: solid;
+	background-color: transparent;
+	border-color: #0b0fea;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-bottom: 20px;
+}
+
+
