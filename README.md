@@ -1,5 +1,7 @@
 # Crystals Collector / week-4-game
 
+https://rebecca8840.github.io/CrystalsCollector/
+
 # How it Works
 
 The player will be shown a random number between 19 and 120. At the bottom of the page, there will be four crystal buttons displayed, each containing a random hidden value between 1 and 12. Clicking on the crystals will update the player's score. The player will not be able to figure out what number the crystals contain until they are clicked.
